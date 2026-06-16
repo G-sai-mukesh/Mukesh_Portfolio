@@ -1,9 +1,3 @@
-/* =========================================
-   PORTFOLIO — GANGISETTY SAI MUKESH
-   certificates.js — Certificate modal viewer
-   ========================================= */
-
-// Maps certificate keys -> file paths (relative to the HTML file)
 const CERT_FILES = {
   cert_nptel_c:        'assets/cert_nptel_c.jpeg',
   cert_nptel_python:   'assets/cert_nptel_python.png',

@@ -1,8 +1,3 @@
-/* =========================================
-   PORTFOLIO — GANGISETTY SAI MUKESH
-   background.js — Star field + scroll reveal animations
-   ========================================= */
-
 // ---------- Animated star field ----------
 (function () {
   const canvas = document.getElementById('stars-canvas');
