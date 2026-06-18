@@ -1,14 +1,14 @@
 const CERT_FILES = {
-  cert_nptel_c:        'assets/cert_nptel_c.jpeg',
-  cert_nptel_python:   'assets/cert_nptel_python.png',
-  cert_guvi_python:    'assets/cert_guvi_python.jpeg',
-  cert_salesforce:     'assets/cert_salesforce.png',
-  cert_wipro:          'assets/cert_wipro_java.png',
-  cert_spoken_c:       'assets/cert_spoken_c.png',
-  cert_spoken_cpp:     'assets/cert_spoken_cpp.png',
-  cert_spoken_java:    'assets/cert_spoken_java.png',
-  cert_spoken_python:  'assets/cert_spoken_python.png',
-  cert_brainovision:   'assets/cert_brainovision.png'
+  cert_nptel_c:        'assets/certificates/cert_nptel_c.jpeg',
+  cert_nptel_python:   'assets/certificates/cert_nptel_python.png',
+  cert_guvi_python:    'assets/certificates/cert_guvi_python.jpeg',
+  cert_salesforce:     'assets/certificates/cert_salesforce.png',
+  cert_wipro:          'assets/certificates/cert_wipro_java.png',
+  cert_spoken_c:       'assets/certificates/cert_spoken_c.png',
+  cert_spoken_cpp:     'assets/certificates/cert_spoken_cpp.png',
+  cert_spoken_java:    'assets/certificates/cert_spoken_java.png',
+  cert_spoken_python:  'assets/certificates/cert_spoken_python.png',
+  cert_brainovision:   'assets/certificates/cert_brainovision.png'
 };
 
 function openCert(key, title) {
